@@ -1,0 +1,10 @@
+.mp4 filter=lfs diff=lfs merge=lfs -text
+THE[[:space:]]AMAZING[[:space:]]DIGITAL[[:space:]]CIRCUS[[:space:]]-[[:space:]]Ep[[:space:]]2：[[:space:]]Candy[[:space:]]Carrier[[:space:]]Chaos![[:space:]][4ofJpOEXrZs].mp4 filter=lfs diff=lfs merge=lfs -text
+THE[[:space:]]AMAZING[[:space:]]DIGITAL[[:space:]]CIRCUS：[[:space:]]PILOT[[:space:]][HwAPLk_sQ3w].mp4 filter=lfs diff=lfs merge=lfs -text
+THE[[:space:]]AMAZING[[:space:]]DIGITAL[[:space:]]CIRCUS[[:space:]]-[[:space:]]Ep[[:space:]]3：[[:space:]]The[[:space:]]Mystery[[:space:]]Of[[:space:]]Mildenhall[[:space:]]Manor[[:space:]][bKjfw77cxeQ].mp4 filter=lfs diff=lfs merge=lfs -text
+THE[[:space:]]AMAZING[[:space:]]DIGITAL[[:space:]]CIRCUS[[:space:]]-[[:space:]]Ep[[:space:]]4：[[:space:]]Fast[[:space:]]Food[[:space:]]Masquerade[[:space:]][Q9KWcWKo2T8].mp4 filter=lfs diff=lfs merge=lfs -text
+THE[[:space:]]AMAZING[[:space:]]DIGITAL[[:space:]]CIRCUS[[:space:]]-[[:space:]]Ep[[:space:]]6：[[:space:]]They[[:space:]]All[[:space:]]Get[[:space:]]Guns[[:space:]][mOvhHim78YA].mkv filter=lfs diff=lfs merge=lfs -text
+THE[[:space:]]AMAZING[[:space:]]DIGITAL[[:space:]]CIRCUS[[:space:]]-[[:space:]]Ep[[:space:]]7：[[:space:]]Beach[[:space:]]Episode[[:space:]][oaOG1xOk7XY].mkv filter=lfs diff=lfs merge=lfs -text
+THE[[:space:]]AMAZING[[:space:]]DIGITAL[[:space:]]CIRCUS[[:space:]]-[[:space:]]Ep[[:space:]]8：[[:space:]]hjsakldfhl[[:space:]][DMNlzf8PiEM].mkv filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mkv filter=lfs diff=lfs merge=lfs -text
